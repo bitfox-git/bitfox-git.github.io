@@ -1,8 +1,6 @@
-# frozen_string_literal: true
 source "https://rubygems.org"
 
+gem 'jekyll-environment-variables'
+gem 'jekyll-paginate'
+gem "webrick"
 gem "jekyll"
-gem "jekyll-seo-tag"
-gem "jekyll-paginate"
-gem "jekyll-gist"
-gem "jemoji"
