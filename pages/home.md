@@ -4,7 +4,7 @@ permalink: "/"
 title: "Bitfox"
 description: "A family of technical experts. Changing the world bit by bit."
 header_transparent: true
-meta_title: Bitfox - A little bit of everything.
+meta_title: "Bitfox - A little bit of everything."
 
 hero:
   enabled: true
