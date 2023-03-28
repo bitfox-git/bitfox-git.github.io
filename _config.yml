@@ -108,7 +108,7 @@ colors:
   background_3_dark: "#222124"
   text_dark: "#f5f5ec"
   text_2_dark: "#b6c3d6"
-  logo_text_dark: "#0d234d"
+  logo_text_dark: "#0d234e"
   menu_text_dark: "inherit"
 
 fonts:
@@ -186,8 +186,8 @@ bottom:
   copyright_text: "© 2023 Bitfox"
 
 sidebar:
-  enable_sidebar_services: true
-  enable_breadcrumbs_services: true
-  enable_sidebar_projects: false
+  enable_sidebar_services: false
+  enable_breadcrumbs_services: false
+  enable_sidebar_projects: true
   enable_breadcrumbs_projects: true
 
