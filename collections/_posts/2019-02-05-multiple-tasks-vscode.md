@@ -5,8 +5,8 @@ lead: Cross platform browser launch combined with another task in vs-code.
 authors: ['Bit Fox']
 categories: [vscode]
 date: 2019-02-05T09:49:03+10:00
-thumbnail: "/assets/images/gen/blog/blog-4-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-4.webp"
+thumbnail: "/assets/images/gen/blog/launch-browser"
+image: "/assets/images/gen/blog/launch-browser"
 ---
 During the setup of this blog, i needed Visual Studio Code to perform a build and watch task and also launch a browser at the same time. The default recommended extension, 'live-server', for watching and serving html files, wasn't going to help, because the tool already served as a webserver. I just needed a browser launch.
 

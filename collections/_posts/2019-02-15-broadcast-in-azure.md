@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Inter-application messaging in a serverless cloud-based environment.
-categories: [Azure]
+categories: [azure]
 authors: ['Bit Fox']
 needs_react: 1
 date: 2019-02-15T09:49:03+10:00
 description: Finding real-time communication for (desktop) applications which require instant messaging in serverless cloud solutions. 
-thumbnail: "/assets/images/gen/blog/blog-4-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-4.webp"
+thumbnail: "/assets/images/gen/blog/inter-application.jpg"
+image: "/assets/images/gen/blog/inter-application.jpg"
 ---
 
 # Introduction

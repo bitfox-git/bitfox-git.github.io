@@ -6,8 +6,8 @@ categories: ['stm32', 'vscode']
 color: rgb(241,89,42)
 date: 2019-02-03T09:49:03+10:00
 description: Instructions for setting up a development environment for the STM32 family on Windows using Visual Studio Code. 
-thumbnail: "/assets/images/gen/blog/blog-4-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-4.webp"
+thumbnail: "/assets/images/gen/blog/stm32-development.jpg"
+image: "/assets/images/gen/blog/stm32-development.jpg"
 ---
 Instructions for setting up a development environment for the STM32 family on Windows using Visual Studio Code. Multiple out-of-the-box solutions exists, for example [PlatformIO](https://platformio.org), but having full control over the toolchain can be usefull. 
 <!--more-->

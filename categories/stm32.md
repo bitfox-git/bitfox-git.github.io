@@ -1,4 +1,4 @@
 ---
 layout: category
-title: STM32
+title: stm32
 ---
