@@ -17,7 +17,7 @@ hero:
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
-  height: "660px"
+  height: "400px"
   buttons:
     enabled: false
     list:
