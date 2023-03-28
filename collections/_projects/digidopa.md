@@ -1,7 +1,7 @@
 ---
 title: "DigiDOPA"
 description: "App for Parkinson patients to register and observe the effects of daily medication."
-date: 2023-28-03
+date: 2023-03-03
 weight: 1
 header_transparent: false
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
