@@ -14,14 +14,14 @@ hero:
   sub_heading: "App for Parkinson patients to register and observe the effects of daily medication."
   text_color: "#000000"
   background_color: ""
-  background_gradient: false
+  background_gradient: true
   background_image: "/assets/images/gen/projects/digidopa/20-dd-header01.jpg"
-  background_image_blend_mode: true
+  background_image_blend_mode: overlay
   fullscreen_mobile: false
   fullscreen_desktop: false
-  height: "300px"
+  height: "400px"
   buttons:
-    enabled: false
+    enabled: true
     list:
       - text: "Website"
         url: "https://www.digidopa.nl/"
