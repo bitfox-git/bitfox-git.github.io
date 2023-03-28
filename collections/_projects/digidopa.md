@@ -3,7 +3,7 @@ title: "DigiDOPA"
 description: "App for Parkinson patients to register and observe the effects of daily medication."
 date: 2023-03-03
 weight: 1
-header_transparent: false
+header_transparent: true
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-1.webp"
 client: "DigiDOPA"
@@ -12,7 +12,7 @@ hero:
   enabled: true
   heading: "DigiDOPA"
   sub_heading: "App for Parkinson patients to register and observe the effects of daily medication."
-  text_color: "#000000"
+  text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
   background_image: "/assets/images/gen/projects/digidopa/20-dd-header01.jpg"
@@ -26,7 +26,7 @@ hero:
       - text: "Website"
         url: "https://www.digidopa.nl/"
         external: true
-        fa_icon: "fad fa-browser"
+        fa_icon: "fas fa-browser"
         size: large
         outline: true
         style: "primary"
