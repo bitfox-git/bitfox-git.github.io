@@ -1,32 +1,32 @@
 ---
-title: "Clothing Range"
-description: "Business impact we need to crystallize a plan churning anomalies dogpile that it's about managing expectations."
-date: 2018-12-20
-weight: 4
+title: "DigiDOPA"
+description: "App for Parkinson patients to register and observe the effects of daily medication."
+date: 2023-28-03
+weight: 1
 header_transparent: false
-thumbnail: "/assets/images/gen/projects/project-4-3-thumbnail.webp"
-image: "/assets/images/gen/projects/project-4-3.webp"
-client: "RGA Agency"
+thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
+image: "/assets/images/gen/projects/project-1-1.webp"
+client: "DigiDOPA"
 
 hero:
   enabled: true
-  heading: "Clothing Range"
-  sub_heading: "Business impact we need to crystallize a plan churning anomalies dogpile that it's about managing expectations."
-  text_color: "#FFFFFF"
+  heading: "DigiDOPA"
+  sub_heading: "App for Parkinson patients to register and observe the effects of daily medication."
+  text_color: "#000000"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/gen/projects/project-4-7.webp"
-  background_image_blend_mode: false
+  background_image: "/assets/images/gen/projects/digidopa/20-dd-header01.jpg"
+  background_image_blend_mode: true
   fullscreen_mobile: false
   fullscreen_desktop: false
-  height: "600px"
+  height: "300px"
   buttons:
-    enabled: true
+    enabled: false
     list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
+      - text: "Website"
+        url: "https://www.digidopa.nl/"
         external: true
-        fa_icon: false
+        fa_icon: "fad fa-browser"
         size: large
         outline: true
         style: "primary"
@@ -38,7 +38,7 @@ Markdown is a lightweight markup language with plain-text-formatting syntax. Its
 
 Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
-{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/projects/project-4-2.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/projects/digidopa/digidopa-image-2b.png" title="DigiDopa App Screenshots"  caption="Screenshots of the DigiDopa APP on iOS" alt="Screenshots of the DigiDopa APP on iOS" %}
 
 ## History
 
@@ -47,8 +47,6 @@ John Gruber created the Markdown language in 2004 in collaboration with Aaron Sw
 > Designing affordable units within the existing water works area required an extensive site survey and ground testing.
 
 To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.
-
-{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/projects/project-4-3.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 
 ## Example
 

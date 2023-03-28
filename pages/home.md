@@ -53,7 +53,7 @@ intro:
   heading: "We've helped hundreds of people grow their business online."
   sub_heading: "Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home."
   features:
-    enabled: false
+    enabled: true
     list:
       - text: "Configure the homepage sections in front-matter."
         fa_icon: "fas fa-check"
