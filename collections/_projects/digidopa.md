@@ -4,8 +4,8 @@ description: "App for Parkinson patients to register and observe the effects of 
 date: 2023-03-03
 weight: 1
 header_transparent: true
-thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-1-1.webp"
+thumbnail: "/assets/images/gen/projects/digidopa/post_thumb.jpg"
+image: "/assets/images/gen/projects/digidopa/post.jpg"
 client: "DigiDOPA"
 
 hero:
@@ -56,15 +56,16 @@ outro:
 
 ---
 
-## We helped the city of brisbane rebuild their old water recycling plant and reclaimation works.
+## We developed the DigiDOPA app for Parkinson patients.
 
-The DigiDOPA-app assists patients and doctors with the personal and optimal tuning of their medication. The app registers medication intake and the actual response, to help them determine the quantatity and frequency of the intake, resulting in an improvement in Parkinson's symptoms.
+The DigiDOPA-app assists patients and doctors with personal and optimal tuning of their medication. The app registers medication intake and the actual response, to help them determine the quantatity and frequency of the intake, resulting in an improvement in Parkinson's symptoms.
 
 {% include framework/shortcodes/figure.html full=true src="/assets/images/gen/projects/digidopa/digidopa-image-2b.png" title="DigiDopa App Screenshots"  caption="Screenshots of the DigiDopa APP on iOS" alt="Screenshots of the DigiDopa APP on iOS" %}
 
-### Technoly
+
+
+### Technology
 
 We developed this app for both iOS and Android using:
-
 - Flutter (Dart)
 - Firebase
