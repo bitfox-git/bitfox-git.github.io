@@ -32,7 +32,7 @@ You can contact us at [info@bitfox.nl](mailto:info@bitfox.nl)
 ## Address
 
 - Pruimendijk 190 
-- 2989 AL | Ridderkerk
+- 2989 AL Ridderkerk
 - The Netherlands 
 
 Chamber of Commerce : 83318313
