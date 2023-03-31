@@ -4,7 +4,7 @@ description: "App for Parkinson patients to register and observe the effects of 
 date: 2023-03-03
 weight: 1
 header_transparent: true
-thumbnail: "/assets/images/gen/projects/digidopa/post_thumb.jpg"
+thumbnail: "/assets/images/gen/projects/digidopa/post.jpg"
 image: "/assets/images/gen/projects/digidopa/post.jpg"
 client: "DigiDOPA"
 

@@ -21,14 +21,13 @@ hero:
   height: "400px"
 ---
 
-# Creating bits
+# Design, create and sustain 
 
-We love to create the bits and bytes needed to change the world a little better.
-Find us at the crossroad of mathematical challenges, software development and electrical engineering.
+We love to create bits and bytes. 
+Find us at the crossroad of software development, electrical engineering and mathematical challenges. 
 
 ## Contact
 You can contact us at:
-
 - email : info@bitfox.nl 
 
 ## Address
@@ -37,11 +36,8 @@ Pruimendijk 190
 2989 AL | Ridderkerk
 The Netherlands 
 
-## Details
-
-VAT : XXXXX
-Chamber of Commerce : 
+Chamber of Commerce : 83318313
 
 ## Legal
 
-Follow these links to find our [privacy policy](/privacy-policy/) and [terms and conditions](/vterms-and-conditions/). 
+Follow these links to find our [privacy policy](/privacy-policy/) and [terms and conditions](/terms-and-conditions/). 

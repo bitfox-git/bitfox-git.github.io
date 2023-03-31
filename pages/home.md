@@ -2,14 +2,14 @@
 layout: home
 permalink: "/"
 title: "Bitfox"
-description: "A family of technical experts. Changing the world bit by bit."
+description: "A family of technical experts changing the world bit by bit."
 header_transparent: true
 meta_title: "Bitfox - A little bit of everything."
 
 hero:
   enabled: true
   heading: "Bitfox"
-  sub_heading: "A family of technical experts. Changing the world bit by bit."
+  sub_heading: "A family of technical experts changing the world bit by bit."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
@@ -17,7 +17,7 @@ hero:
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
-  height: "300px"
+  height: "400px"
   buttons:
     enabled: false
     list:

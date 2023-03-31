@@ -1,32 +1,22 @@
 [
   {
-    "title": "Jekyll",
-    "image": "assets/images/partners/jekyll-mark.png",
-    "url": "https://www.zerostatic.io"
-  },
-  {
-    "title": "Netlify",
-    "image": "assets/images/partners/netlify.png",
-    "url": "https://www.zerostatic.io"
-  },
-  {
-    "title": "Scss",
-    "image": "assets/images/partners/sass.png",
-    "url": "https://www.zerostatic.io"
-  },
-  {
-    "title": "Mailchimp",
-    "image": "assets/images/partners/mailchimp.svg",
-    "url": "https://www.zerostatic.io"
-  },
-  {
     "title": "Github",
     "image": "assets/images/partners/github.svg",
     "url": "https://www.github.com"
   },
   {
-    "title": "Algolia",
-    "image": "assets/images/partners/algolia.svg",
-    "url": "https://www.zerostatic.io"
+    "title": "Azure",
+    "image": "assets/images/partners/azure.svg",
+    "url": "https://www.azure.com"
+  },
+  {
+    "title": "Flutter",
+    "image": "assets/images/partners/flutter.svg",
+    "url": "https://www.google.com"
+  },
+  {
+    "title": "DotNet",
+    "image": "assets/images/partners/dotnet.svg",
+    "url": "https://dotnet.microsoft.com/en-us/"
   }
 ]
