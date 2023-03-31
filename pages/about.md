@@ -27,14 +27,13 @@ We love to create bits and bytes.
 Find us at the crossroad of software development, electrical engineering and mathematical challenges. 
 
 ## Contact
-You can contact us at:
-- email : info@bitfox.nl 
+You can contact us at [info@bitfox.nl](mailto:info@bitfox.nl) 
 
 ## Address
 
-Pruimendijk 190 
-2989 AL | Ridderkerk
-The Netherlands 
+- Pruimendijk 190 
+- 2989 AL | Ridderkerk
+- The Netherlands 
 
 Chamber of Commerce : 83318313
 

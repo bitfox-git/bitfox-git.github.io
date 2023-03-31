@@ -51,13 +51,13 @@ intro:
   align: left
   image: "/assets/images/gen/content/content-5-thumbnail.webp"
   heading: "Welcome" 
-  sub_heading: "We develop software and hardware solutions."
+  sub_heading: "We love to create digital solutions."
   features:
     enabled: true
     list:
-      - text: "Software development."
+      - text: "Software development"
         fa_icon: "fas fa-check"
-      - text: "Hardware design."
+      - text: "Electrical engineering"
         fa_icon: "fas fa-check"
       #- text: "Fully responsive and SEO optimised."
       #  fa_icon: "fas fa-check"
@@ -105,7 +105,7 @@ outro:
     enabled: true
     list:
       - text: "Contact Us"
-        url: "/contact"
+        url: "/about"
         external: false
         size: "large"
 

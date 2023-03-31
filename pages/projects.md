@@ -67,7 +67,7 @@ outro:
     enabled: true
     list:
       - text: "Contact"
-        url: "/contact"
+        url: "/about"
         external: false
         fa_icon: false
         size: "normal"
