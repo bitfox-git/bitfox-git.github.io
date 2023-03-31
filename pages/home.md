@@ -47,7 +47,7 @@ services:
   prevent_click: false
 
 intro:
-  enabled: true
+  enabled: false
   align: left
   image: "/assets/images/gen/content/content-5-thumbnail.webp"
   heading: "We've helped hundreds of people grow their business online."
@@ -94,12 +94,12 @@ outro:
   enabled: true
   align: center
   image: false
-  heading: Get Started Today
-  sub_heading: "Save time and money using this premium Jekyll theme."
+  heading: Any project idea's?
+  sub_heading: "Feel free to contact us."
   features:
     enabled: false
     list:
-      - text: "Free Quote"
+      - text: "Contact"
         fa_icon: "fas fa-envelope-open-text"
   buttons:
     enabled: true
