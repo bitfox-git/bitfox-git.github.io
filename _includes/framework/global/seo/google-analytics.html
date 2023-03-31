@@ -1,4 +1,5 @@
 {% if jekyll.environment == "production" %}
+  <script defer data-domain="bitfox.nl" src="https://plausible.server.bitfox.nl/js/script.js"></script>
   {% assign gid = site.env.NETLIFY_GOOGLE_ANALYTICS_ID %}
   {% if gid %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ gid }}"></script>
