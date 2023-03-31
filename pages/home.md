@@ -49,7 +49,7 @@ services:
 intro:
   enabled: true
   align: left
-  #image: "/assets/images/gen/content/content-5-thumbnail.webp"
+  image: "/assets/images/gen/content/content-5-thumbnail.webp"
   heading: "Welcome" 
   sub_heading: "We develop software and hardware solutions."
   features:
