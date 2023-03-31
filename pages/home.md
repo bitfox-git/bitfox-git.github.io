@@ -47,22 +47,22 @@ services:
   prevent_click: false
 
 intro:
-  enabled: false
+  enabled: true
   align: left
-  image: "/assets/images/gen/content/content-5-thumbnail.webp"
-  heading: "We've helped hundreds of people grow their business online."
-  sub_heading: "Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home."
+  #image: "/assets/images/gen/content/content-5-thumbnail.webp"
+  heading: "Welcome" 
+  sub_heading: "We develop software and hardware solutions."
   features:
     enabled: true
     list:
-      - text: "Configure the homepage sections in front-matter."
+      - text: "Software development."
         fa_icon: "fas fa-check"
-      - text: "An advanced hero image section with dozens of design options."
+      - text: "Hardware design."
         fa_icon: "fas fa-check"
-      - text: "Fully responsive and SEO optimised."
-        fa_icon: "fas fa-check"
-      - text: "Multiple content types including services, projects, blog and more."
-        fa_icon: "fas fa-check"
+      #- text: "Fully responsive and SEO optimised."
+      #  fa_icon: "fas fa-check"
+      #- text: "Multiple content types including services, projects, blog and more."
+      #  fa_icon: "fas fa-check"
   buttons:
     enabled: true
     list:
